@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>0.1.0</version>
+    <title>$title$</title>
+    <authors>Yury.Kerbitskov</authors>
+    <owners>Yury.Kerbitskov</owners>    
+    <projectUrl>https://github.com/kirbex/TPLExtensions.Net35</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Extension methods for .NET 3.5 TPL library. And some usefull classes.</description>
+    <releaseNotes>Added some cool stuff.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>TPL .NET35 Task</tags>
+	<dependencies>
+        <dependency id="AsyncBridge.Net35" version="0.2.0" />
+    </dependencies>
+  </metadata>
+</package>
